@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Source Sans Pro', ;
+}
+.header{
+  height: 50px;
+  background-color: #1A1414;
+  img{
+    height: 50px;
+    color: green;
+  }
+}
+body{
+  background-color: grey;
+}
+.container_cd{
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  img{
+    width: 80%;
+  }
+  .cd{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 30%;
+    margin: 50px auto;
+    .description{
+      display: flex;
+      flex-direction: column;
+      h1,
+      h2,
+      p{
+        margin: 0 auto;
+      }
+
+
+
+
+    }
+  }
+
+}
