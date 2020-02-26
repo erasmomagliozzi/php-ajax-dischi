@@ -61,8 +61,6 @@
      'img_path' => 'https://img.discogs.com/fbsdG6Y2qMIx4yLpsgqlW-xihhI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14779619-1581439668-1197.jpeg.jpg'
    ]
 
-
-
  ];
 
 
