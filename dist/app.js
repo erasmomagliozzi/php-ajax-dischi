@@ -15845,7 +15845,7 @@ function cd(cd) {
       img_path: cds.img_path
     };
     var html = template(context);
-    $('.copertina').append(html);
+    $('.container_cd').append(html);
   }
 }
 
