@@ -5,10 +5,19 @@
     <title></title>
   </head>
   <body>
+    <div class="copertina">
+
+    </div>
 
 
-
-
-  <script src="src/app.js" charset="utf-8"></script>
+  <script id="entry-template" type="text/x-handlebars-template">
+    <div class="entry">
+      <h1>{{title}}</h1>
+      <h2>{{artista}}</h2>
+      <p>{{anno}}</p>
+      <img src="{{img_path}}"><img>
+    </div>
+  </script>
+  <script src="dist/app.js" charset="utf-8"></script>
   </body>
 </html>
